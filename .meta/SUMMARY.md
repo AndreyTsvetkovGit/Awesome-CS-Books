@@ -76,7 +76,14 @@
 - [JavaScript](../ProgrammingLanguage/JavaScript/README.md) 
 - [PHP](../ProgrammingLanguage/PHP/README.md) 
 - [ProgrammingLanguageTheory](../ProgrammingLanguage/ProgrammingLanguageTheory/README.md) 
+- [Python](../ProgrammingLanguage/Python/README.md) 
 - [Rust](../ProgrammingLanguage/Rust/README.md) 
+
+## [Series](../Series/README.md) 
+
+- [Introduction](../Series/README.md) 
+
+- [The New Stack](../Series/The New Stack/README.md) 
 
 ## [SoftwareEngineering](../SoftwareEngineering/README.md) 
 
@@ -86,8 +93,8 @@
 - [Architecture](../SoftwareEngineering/Architecture/README.md) 
   - [2017-Martin Fowler-架构整洁之道](../SoftwareEngineering/Architecture/2017-Martin Fowler-架构整洁之道.md) 
 - [DesginPattern](../SoftwareEngineering/DesginPattern/README.md) 
-- [SDK](../SoftwareEngineering/SDK/README.md) 
-  - [Git](../SoftwareEngineering/SDK/Git/README.md) 
+- [Workflow](../SoftwareEngineering/Workflow/README.md) 
+  - [Git](../SoftwareEngineering/Workflow/Git/README.md) 
 
 ## [Specials](../Specials/README.md) 
 
