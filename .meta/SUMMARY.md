@@ -38,7 +38,6 @@
 
 - [CloudComputing](../Infrastructure/CloudComputing/README.md) 
 - [Database](../Infrastructure/Database/README.md) 
-  - [NewSQL](../Infrastructure/Database/NewSQL/README.md) 
   - [NoSQL](../Infrastructure/Database/NoSQL/README.md) 
   - [RDB](../Infrastructure/Database/RDB/README.md) 
   - [Specials](../Infrastructure/Database/Specials/README.md) 
@@ -52,7 +51,6 @@
 - [DistributedSystem](../Infrastructure/DistributedSystem/README.md) 
 - [OS](../Infrastructure/OS/README.md) 
 - [Virtualization](../Infrastructure/Virtualization/README.md) 
-  - [Docker](../Infrastructure/Virtualization/Docker/README.md) 
   - [Kubernetes](../Infrastructure/Virtualization/Kubernetes/README.md) 
     - [2017-Kubernetes权威指南：从Docker到Kubernetes实践全接触-2nd.epub](../Infrastructure/Virtualization/Kubernetes/2017-Kubernetes权威指南：从Docker到Kubernetes实践全接触-2nd.epubREADME.md) 
 
@@ -60,7 +58,6 @@
 
 - [Introduction](../Product/README.md) 
 
-- [Analytic](../Product/Analytic/README.md) 
 - [Business](../Product/Business/README.md) 
   - [2003-四步创业法](../Product/Business/2003-四步创业法.md) 
   - [2012-埃里克-精益创业](../Product/Business/2012-埃里克-精益创业.md) 
