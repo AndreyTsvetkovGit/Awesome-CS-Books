@@ -39,7 +39,7 @@
 
 # About
 
-![default](https://i.postimg.cc/y1QXgJ6f/image.png)
+
 
 > 加密文件的解压密码为：wx-coder
 
